@@ -1,0 +1,38 @@
+.App {
+  text-align: center;
+}
+
+body {
+  background-image: radial-gradient(circle, #5c0067 0%, #00d4ff 100%);
+}
+
+form .inp {
+  height: 35px;
+  width: 250px;
+  margin: 15px;
+  border: 3px solid #1a101b;
+  border-radius: 15px;
+}
+form .btn {
+  height: 35px;
+  width: 200px;
+  margin: 15px;
+  border: 3px solid #1a101b;
+  background-color: #e1a0e7;
+  border-radius: 15px;
+}
+div card {
+  gap: 25px;
+}
+
+div card h3 {
+}
+div card img {
+  width: 25px;
+  height: 25px;
+}
+div card {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
